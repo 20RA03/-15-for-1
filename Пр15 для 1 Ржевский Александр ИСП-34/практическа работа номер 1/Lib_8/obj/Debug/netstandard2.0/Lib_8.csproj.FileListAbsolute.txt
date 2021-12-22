@@ -1,0 +1,19 @@
+C:\Users\1\source\repos\практическа работа номер 1\Lib_8\bin\Debug\netstandard2.0\Lib_8.deps.json
+C:\Users\1\source\repos\практическа работа номер 1\Lib_8\bin\Debug\netstandard2.0\Lib_8.dll
+C:\Users\1\source\repos\практическа работа номер 1\Lib_8\bin\Debug\netstandard2.0\Lib_8.pdb
+C:\Users\1\source\repos\практическа работа номер 1\Lib_8\obj\Debug\netstandard2.0\Lib_8.csprojAssemblyReference.cache
+C:\Users\1\source\repos\практическа работа номер 1\Lib_8\obj\Debug\netstandard2.0\Lib_8.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\практическа работа номер 1\Lib_8\obj\Debug\netstandard2.0\Lib_8.AssemblyInfo.cs
+C:\Users\1\source\repos\практическа работа номер 1\Lib_8\obj\Debug\netstandard2.0\Lib_8.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\практическа работа номер 1\Lib_8\obj\Debug\netstandard2.0\Lib_8.dll
+C:\Users\1\source\repos\практическа работа номер 1\Lib_8\obj\Debug\netstandard2.0\Lib_8.pdb
+F:\3 курс\МДК.01.01 РПМ\Практосы\ПР 1\практическа работа номер 1\Lib_8\bin\Debug\netstandard2.0\Lib_8.deps.json
+F:\3 курс\МДК.01.01 РПМ\Практосы\ПР 1\практическа работа номер 1\Lib_8\bin\Debug\netstandard2.0\Lib_8.dll
+F:\3 курс\МДК.01.01 РПМ\Практосы\ПР 1\практическа работа номер 1\Lib_8\bin\Debug\netstandard2.0\Lib_8.pdb
+F:\3 курс\МДК.01.01 РПМ\Практосы\ПР 1\практическа работа номер 1\Lib_8\obj\Debug\netstandard2.0\Lib_8.csproj.AssemblyReference.cache
+F:\3 курс\МДК.01.01 РПМ\Практосы\ПР 1\практическа работа номер 1\Lib_8\obj\Debug\netstandard2.0\Lib_8.GeneratedMSBuildEditorConfig.editorconfig
+F:\3 курс\МДК.01.01 РПМ\Практосы\ПР 1\практическа работа номер 1\Lib_8\obj\Debug\netstandard2.0\Lib_8.AssemblyInfoInputs.cache
+F:\3 курс\МДК.01.01 РПМ\Практосы\ПР 1\практическа работа номер 1\Lib_8\obj\Debug\netstandard2.0\Lib_8.AssemblyInfo.cs
+F:\3 курс\МДК.01.01 РПМ\Практосы\ПР 1\практическа работа номер 1\Lib_8\obj\Debug\netstandard2.0\Lib_8.csproj.CoreCompileInputs.cache
+F:\3 курс\МДК.01.01 РПМ\Практосы\ПР 1\практическа работа номер 1\Lib_8\obj\Debug\netstandard2.0\Lib_8.dll
+F:\3 курс\МДК.01.01 РПМ\Практосы\ПР 1\практическа работа номер 1\Lib_8\obj\Debug\netstandard2.0\Lib_8.pdb

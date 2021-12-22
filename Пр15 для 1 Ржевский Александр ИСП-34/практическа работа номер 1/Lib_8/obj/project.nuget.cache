@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7E3gvo0DaBTXo09W8LpHXSyZgIJ7UQ4OnTiEIWfqEIT/ecNtuOibD0Dm4bu/wx0llhdd9OSZL/pC18CcUq1ojw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alex\\Desktop\\Пр1 Ржевский Александр ИСП-34\\практическа работа номер 1\\Lib_8\\Lib_8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
